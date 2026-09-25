@@ -1,0 +1,11 @@
+title: Study Notes
+url: "https://kk-kawashima.github.io"
+baseurl: "/study-notes"
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
